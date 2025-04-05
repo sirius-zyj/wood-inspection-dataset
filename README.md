@@ -3,10 +3,12 @@ The dataset is for up-coming paper "Research and Development of Autonomous Inspe
 For Section 3:
 This is the LE-DET datasets.
 Download link：https://app.roboflow.com/sirius-r0tqk/log-end-det/2
+
 This is the Wood-ReID datasets.
-Download in the hub.
+Download link: http://su91xgnpt.hn-bkt.clouddn.com/Wood-MOT.zip
+
 This is the MOT datasets.
-Download in the hub.
+Download link: http://su91xgnpt.hn-bkt.clouddn.com/Wood-ReID.zip
 
 For Section 4:
 This is the LE-SEG datasets.
