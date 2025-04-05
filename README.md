@@ -5,10 +5,10 @@ This is the LE-DET datasets.
 Download link：https://app.roboflow.com/sirius-r0tqk/log-end-det/2
 
 This is the Wood-ReID datasets.
-Download link: http://su91xgnpt.hn-bkt.clouddn.com/Wood-MOT.zip
+Download link: http://su91xgnpt.hn-bkt.clouddn.com/Wood-ReID.zip
 
 This is the MOT datasets.
-Download link: http://su91xgnpt.hn-bkt.clouddn.com/Wood-ReID.zip
+Download link: http://su91xgnpt.hn-bkt.clouddn.com/Wood-MOT.zip
 
 For Section 4:
 This is the LE-SEG datasets.
