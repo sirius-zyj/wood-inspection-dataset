@@ -1,4 +1,4 @@
-The dataset is for up-coming paper "Research and Development of Autonomous Inspection of Log Yards by Unmanned Aerial Vehicles"
+The dataset is for up-coming paper "Research and Development of Unmanned Aerial Vehicles for Autonomous Inspection of Log Yards"
 
 For Section 3:
 This is the LE-DET datasets.
